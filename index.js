@@ -6,5 +6,5 @@ function CambiarImagen1(){
 function CambiarImagen2(){
   document.getElementById("imagen").src="https://nexus.leagueoflegends.com/wp-content/uploads/2017/06/yasuoar-min.jpg"
 }
-    
+  console.log("Luis Alcon ")  
 
